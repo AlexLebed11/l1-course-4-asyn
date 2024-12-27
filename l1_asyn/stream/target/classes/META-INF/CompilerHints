@@ -1,0 +1,16 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/example/StreamBenchmark.averageWithParallelStream
+inline,org/example/StreamBenchmark.averageWithStream
+inline,org/example/StreamBenchmark.filterEvenAndDivisibleByThreeWithParallelStream
+inline,org/example/StreamBenchmark.filterEvenAndDivisibleByThreeWithStream
+inline,org/example/StreamBenchmark.multiplyByTwoWithParallelStream
+inline,org/example/StreamBenchmark.multiplyByTwoWithStream
+inline,org/example/StreamBenchmark.setup
+inline,org/example/StreamBenchmark.stdDeviationWithParallelStream
+inline,org/example/StreamBenchmark.stdDeviationWithStream
+inline,org/example/StreamBenchmark.sumWithParallelStream
+inline,org/example/StreamBenchmark.sumWithStream

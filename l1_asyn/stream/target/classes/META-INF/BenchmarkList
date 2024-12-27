@@ -1,0 +1,10 @@
+JMH S 27 org.example.StreamBenchmark S 75 org.example.jmh_generated.StreamBenchmark_averageWithParallelStream_jmhTest S 25 averageWithParallelStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 67 org.example.jmh_generated.StreamBenchmark_averageWithStream_jmhTest S 17 averageWithStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 97 org.example.jmh_generated.StreamBenchmark_filterEvenAndDivisibleByThreeWithParallelStream_jmhTest S 47 filterEvenAndDivisibleByThreeWithParallelStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 89 org.example.jmh_generated.StreamBenchmark_filterEvenAndDivisibleByThreeWithStream_jmhTest S 39 filterEvenAndDivisibleByThreeWithStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 81 org.example.jmh_generated.StreamBenchmark_multiplyByTwoWithParallelStream_jmhTest S 31 multiplyByTwoWithParallelStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 73 org.example.jmh_generated.StreamBenchmark_multiplyByTwoWithStream_jmhTest S 23 multiplyByTwoWithStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 80 org.example.jmh_generated.StreamBenchmark_stdDeviationWithParallelStream_jmhTest S 30 stdDeviationWithParallelStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 72 org.example.jmh_generated.StreamBenchmark_stdDeviationWithStream_jmhTest S 22 stdDeviationWithStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 71 org.example.jmh_generated.StreamBenchmark_sumWithParallelStream_jmhTest S 21 sumWithParallelStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 63 org.example.jmh_generated.StreamBenchmark_sumWithStream_jmhTest S 13 sumWithStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
